@@ -17,6 +17,7 @@
     "express-async-handler": "^1.2.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.14.1",
-    "pdfkit": "^0.17.1"
+    "pdfkit": "^0.17.1",
+    "https-proxy-agent": "^5.0.0"
   }
 }
